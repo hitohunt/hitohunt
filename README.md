@@ -13,20 +13,9 @@
 - 🧩 Breaking cryptographic puzzles one byte at a time
 - 🏋️ Building a solid foundation in security fundamentals
 
-## 📊 Learning Progress
-```text
-Reverse Engineering: ███████▒▒▒ 70%
-Cryptography:       ██████▒▒▒▒ 60%
-C++:                ███████▒▒▒ 70%
-Python:             ████████▒▒ 80%
-Rust:               ████▒▒▒▒▒▒ 40%
-```
-
 ## 🤝 Connect & Collaborate
 - 💬 Always open to learning from others and collaborating on interesting projects
 - 🌟 Looking for CTF teammates and study partners
-
-*"The more I learn, the more I realize how much I don't know." - Albert Einstein*
 
 <!---
 hitohunt/hitohunt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
