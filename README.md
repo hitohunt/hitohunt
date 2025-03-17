@@ -3,6 +3,8 @@
 - 🔐 Focusing on **Reverse Engineering** & **Cryptography** challenges
 - 📚 Documenting my progress and sharing what I learn
 
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/[hitohunt].png)
+
 ## 💻 Tech Stack (beginner)
 - ➕ **C++**: Learning systems programming and performance-critical applications
 - 🐍 **Python**: My go-to language for quick scripts and crypto implementations
