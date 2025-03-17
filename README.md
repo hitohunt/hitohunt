@@ -1,7 +1,7 @@
 ## 🌱 About Me 
 - 🔰 **Aspiring security researcher** | Currently on my learning journey in CTF
 - 🔐 Focusing on **Reverse Engineering** & **Cryptography** challenges
-- 📚 Documenting my progress and sharing what I learn
+- 📚 Documenting my progress and sharing what I learn　　
 <img src="https://tryhackme-badges.s3.amazonaws.com/hitohunt.png" alt="Your Image Badge" />　　
 
 ## 💻 Tech Stack (beginner)
