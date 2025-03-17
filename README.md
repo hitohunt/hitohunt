@@ -1,8 +1,12 @@
 ## 🌱 About Me 
+<p align="left">
+  <a href="https://app.hackthebox.com/profile/2316199"><img src="https://www.hackthebox.com/badge/image/2316199" alt="Hack The Box Badge" width="200"/></a>
+  <a href="https://tryhackme.com/p/hitohunt"><img src="https://tryhackme-badges.s3.amazonaws.com/hitohunt.png" alt="TryHackMe Badge" width="200"/></a>
+</p>  
+
 - 🔰 **Aspiring security researcher** | Currently on my learning journey in CTF
 - 🔐 Focusing on **Reverse Engineering** & **Cryptography** challenges
-- 📚 Documenting my progress and sharing what I learn　　
-<img src="https://tryhackme-badges.s3.amazonaws.com/hitohunt.png" alt="Your Image Badge" />　　
+- 📚 Documenting my progress and sharing what I learn  
 
 ## 💻 Tech Stack (beginner)
 - ➕ **C++**: Learning systems programming and performance-critical applications
