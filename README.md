@@ -3,10 +3,9 @@
 - 🔐 Focusing on **Reverse Engineering** & **Cryptography** challenges
 - 📚 Documenting my progress and sharing what I learn
 
-## 💻 Tech Stack
+## 💻 Tech Stack (beginner)
 - 🐍 **Python**: My go-to language for quick scripts and crypto implementations
 - ➕ **C++**: Learning systems programming and performance-critical applications
-- 🦀 **Rust**: Exploring memory safety and modern systems programming (beginner)
 
 ## 🧠 Current Focus
 - 🔍 Diving into low-level systems analysis
