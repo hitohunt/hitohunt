@@ -3,7 +3,7 @@
 - 🔐 Focusing on **Reverse Engineering** & **Cryptography** challenges
 - 📚 Documenting my progress and sharing what I learn
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/[hitohunt].png)
+<img src="https://tryhackme-badges.s3.amazonaws.com/hitohunt.png" alt="Your Image Badge" />
 
 ## 💻 Tech Stack (beginner)
 - ➕ **C++**: Learning systems programming and performance-critical applications
