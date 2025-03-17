@@ -1,9 +1,18 @@
-## 🌱 About Me
-- 🔰 **Aspiring security researcher** | Currently on my learning journey in CTF
-- 🔐 Focusing on **Reverse Engineering** & **Cryptography** challenges
-- 📚 Documenting my progress and sharing what I learn
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/hitohunt.png" alt="Your Image Badge" />
+<table>
+  <tr>
+    <td width="70%">
+      <h2>🌱 About Me</h2>
+      <ul>
+        <li>🔰 <b>Aspiring security researcher</b> | Currently on my learning journey in CTF</li>
+        <li>🔐 Focusing on <b>Reverse Engineering</b> & <b>Cryptography</b> challenges</li>
+        <li>📚 Documenting my progress and sharing what I learn</li>
+      </ul>
+    </td>
+    <td width="30%">
+      <img src="https://tryhackme-badges.s3.amazonaws.com/hitohunt.png" alt="TryHackMe Badge" />
+    </td>
+  </tr>
+</table>
 
 ## 💻 Tech Stack (beginner)
 - ➕ **C++**: Learning systems programming and performance-critical applications
