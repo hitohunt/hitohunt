@@ -1,4 +1,4 @@
-<h2>🌱 About Me <img src="https://tryhackme-badges.s3.amazonaws.com/hitohunt.png" alt="TryHackMe Badge" height="30" style="vertical-align: middle;" /></h2>
+## 🌱 About Me <img src="https://tryhackme-badges.s3.amazonaws.com/hitohunt.png" alt="TryHackMe Badge" style="vertical-align: middle;" />
 
 - 🔰 **Aspiring security researcher** | Currently on my learning journey in CTF
 - 🔐 Focusing on **Reverse Engineering** & **Cryptography** challenges
