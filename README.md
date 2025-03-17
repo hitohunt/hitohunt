@@ -4,8 +4,8 @@
 - 📚 Documenting my progress and sharing what I learn
 
 ## 💻 Tech Stack (beginner)
-- 🐍 **Python**: My go-to language for quick scripts and crypto implementations
 - ➕ **C++**: Learning systems programming and performance-critical applications
+- 🐍 **Python**: My go-to language for quick scripts and crypto implementations
 
 ## 🧠 Current Focus
 - 🔍 Diving into low-level systems analysis
