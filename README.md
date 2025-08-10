@@ -1,7 +1,7 @@
 ## 🌱 About Me 
 <p align="left">
-  <a href="https://app.hackthebox.com/profile/2316199"><img src="https://www.hackthebox.com/badge/image/2316199" alt="Hack The Box Badge" width="280" height="75"/></a>
-  <a href="https://tryhackme.com/p/hitohunt"><img src="https://tryhackme-badges.s3.amazonaws.com/hitohunt.png" alt="TryHackMe Badge" width="280" height="75"/></a>
+  <a href="https://app.hackthebox.com/profile/2316199"><img src="https://www.hackthebox.com/badge/image/2316199" alt="Hack The Box Badge" height="75"/></a>
+  <a href="https://tryhackme.com/p/hitohunt"><img src="https://tryhackme-badges.s3.amazonaws.com/hitohunt.png" alt="TryHackMe Badge" height="75"/></a>
 </p>
 
 - 🔰 **Aspiring security researcher** | Currently on my learning journey in CTF
