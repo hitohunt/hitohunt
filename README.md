@@ -4,24 +4,10 @@
   <a href="https://tryhackme.com/p/hitohunt"><img src="https://tryhackme-badges.s3.amazonaws.com/hitohunt.png" alt="TryHackMe Badge" style="height: 75px; width: auto;"/></a>
 </p>
 
-- 🔰 **Aspiring security researcher** | Currently on my learning journey in CTF
-- 🔐 Focusing on **Reverse Engineering** & **Cryptography** challenges
-- 📚 Documenting my progress and sharing what I learn  
+Security enthusiast learning through CTF challenges 🔐  
+Currently focusing on **Reverse Engineering** and **Cryptography**
 
-## 💻 Tech Stack (beginner)
-- ➕ **C++**: Learning systems programming and performance-critical applications
-- 🐍 **Python**: My go-to language for quick scripts and crypto implementations
+**Tech Stack:** C++, Python  
+**Goal:** Building solid security fundamentals one challenge at a time
 
-## 🧠 Current Focus
-- 🔍 Diving into low-level systems analysis
-- 🧩 Breaking cryptographic puzzles one byte at a time
-- 🏋️ Building a solid foundation in security fundamentals
-
-## 🤝 Connect & Collaborate
-- 💬 Always open to learning from others and collaborating on interesting projects
-- 🌟 Looking for CTF teammates and study partners
-
-<!---
-hitohunt/hitohunt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Always open to collaborate and learn from others! 🤝
