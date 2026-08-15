@@ -8,7 +8,7 @@ Doing CTFs, mostly web and crypto. Learning penetration testing with Kali/Parrot
 Still learning, still breaking things (on purpose). Also just really into how OSes work under the hood — daily driving Arch (btw), poking around the kernel for fun.
 
 ## Stack
-Kotlin (building a Burp Suite extension) / Rust / JS-TS
+Rust / Kotlin / Node.js / TypeScript
 
 ## Currently
 - Working through pentest labs on Kali/Parrot OS
