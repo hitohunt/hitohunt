@@ -5,10 +5,10 @@ Doing CTFs, mostly web and crypto. Learning penetration testing with Kali/Parrot
   <a href="https://app.hackthebox.com/profile/2316199"><img src="https://www.hackthebox.com/badge/image/2316199" alt="Hack The Box Badge" height="75"/></a>
 </p>
 
-Still learning, still breaking things (on purpose). Also just really into how OSes work under the hood — daily driving Arch, poking around the kernel for fun.
+Still learning, still breaking things (on purpose). Also just really into how OSes work under the hood — daily driving Arch (btw), poking around the kernel for fun.
 
 ## Stack
-Kotlin (building a Burp Suite extension) / Python (crypto scripts, quick tooling)
+Kotlin (building a Burp Suite extension) / Rust / JS-TS
 
 ## Currently
 - Working through pentest labs on Kali/Parrot OS
