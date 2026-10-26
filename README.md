@@ -5,6 +5,8 @@ Doing CTFs, mostly web and crypto. Learning penetration testing with Kali/Parrot
   <a href="https://app.hackthebox.com/profile/2316199"><img src="https://www.hackthebox.com/badge/image/2316199" alt="Hack The Box Badge" height="75"/></a>
 </p>
 
+
+[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](ここに自分のHTB公開プロフィールURL)
 Still learning, still breaking things (on purpose). Also just really into how OSes work under the hood — daily driving Arch (btw), poking around the kernel for fun.
 
 ## Currently
