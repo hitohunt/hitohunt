@@ -1,18 +1,40 @@
+<div align="center">
+
+# Hi, I'm hitohunt
+
+**Penetration tester · CTF player · low-level tinkerer**
+
+[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/2316199)
+![Pentest](https://img.shields.io/badge/Day_job-Penetration_Testing-red?style=for-the-badge)
+![Arch](https://img.shields.io/badge/Daily_driver-Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![CTF](https://img.shields.io/badge/CTF-Web_%7C_Crypto-blueviolet?style=for-the-badge)
+
+</div>
+
 ## About
-Doing CTFs, mostly web and crypto. Learning penetration testing with Kali/Parrot OS on the side.
 
-<p align="left">
-  <a href="https://app.hackthebox.com/profile/2316199"><img src="https://www.hackthebox.com/badge/image/2316199" alt="Hack The Box Badge" height="75"/></a>
-</p>
+I work in penetration testing, and I play CTFs on the side (mostly web and crypto).
+Outside of that, I like understanding how systems work under the hood, from the kernel up to the APIs we attack every day.
 
+> [!NOTE]
+> Still learning, still breaking things (on purpose). Daily driving Arch (btw).
 
-[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](ここに自分のHTB公開プロフィールURL)
-Still learning, still breaking things (on purpose). Also just really into how OSes work under the hood — daily driving Arch (btw), poking around the kernel for fun.
+## Currently exploring
 
-## Currently
-- Working through pentest labs on Kali/Parrot OS
-- Solving web and crypto challenges
-- Reading up on kernel internals, tinkering with my Arch setup
-- Writing up solves on my blog now and then
+| Area | What I'm digging into |
+|------|-----------------------|
+| **OS internals** | Kernel internals, memory management |
+| **Toolchains** | How compilers work, from source to binary |
+| **Reverse engineering** | Reading and understanding binaries |
+| **API analysis** | Tracing and testing real-world API behavior |
+| **Automation** | Making security assessments more repeatable and automated |
 
-Looking for a CTF team — hit me up if you're playing regularly.
+## Looking for
+
+- Info, tools, and ideas on **automating security assessments**
+- A **CTF team** to play with regularly, so hit me up if you're active
+
+## Elsewhere
+
+- Hack The Box: [profile](https://app.hackthebox.com/profile/2316199)
+- Writeups: on my blog, now and then
