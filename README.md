@@ -1,8 +1,8 @@
 <div align="center">
 
-# [ hitohunt ]
+# `$ whoami`
 
-**Security engineer · Penetration testing · Vulnerability research**
+**hitohunt@pentest:~#** Junior Penetration Tester
 
 [![Hack The Box](https://img.shields.io/badge/Hack_The_Box-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/2316199)
 ![Role](https://img.shields.io/badge/Role-Penetration_Tester-red?style=for-the-badge)
@@ -12,25 +12,24 @@
 
 ## About
 
-Penetration tester at [Company / or "a security consultancy in Japan"].
+Junior penetration tester.
 I find and validate vulnerabilities in web, API, and mobile applications, and I study native binaries and low-level internals to understand root causes.
 
-My interest is in making vulnerability assessment more repeatable: using automation and AI to triage, verify, and report findings faster, with a human in the loop.
+I'm also interested in Active Directory environments, and in making vulnerability assessment more repeatable: using automation and AI to triage, verify, and report findings faster, with a human in the loop.
 
 ## Focus
 
 | Area | Topics |
 |------|--------|
-| **Assessment** | Web / API / Android / iOS application security testing |
+| **Assessment** | Web / API / Android  security testing |
+| **Active Directory** | Attack paths and misconfigurations in AD environments |
 | **Reverse engineering** | Static and dynamic analysis, root-cause analysis (IDA, Ghidra, Frida) |
 | **Low-level** | Kernel internals, memory, compilers |
 | **Automation** | AI-assisted vulnerability triage and validation workflows |
 
 ## Public work
 
-- [Writeups / blog](URL)
-- [Tool or script you published](URL)
-- [CVE / advisory / disclosed report, if any](URL)
+- [Writeups / blog](ブログのURL)
 
 ## Principles
 
