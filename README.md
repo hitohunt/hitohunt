@@ -1,40 +1,37 @@
 <div align="center">
 
-# Hi, I'm hitohunt
+# [ hitohunt ]
 
-**Penetration tester · CTF player · low-level tinkerer**
+**Security engineer · Penetration testing · Vulnerability research**
 
 [![Hack The Box](https://img.shields.io/badge/Hack_The_Box-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/2316199)
-![Pentest](https://img.shields.io/badge/Day_job-Penetration_Testing-red?style=for-the-badge)
-![Arch](https://img.shields.io/badge/Daily_driver-Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
-![CTF](https://img.shields.io/badge/CTF-Web_%7C_Crypto-blueviolet?style=for-the-badge)
+![Role](https://img.shields.io/badge/Role-Penetration_Tester-red?style=for-the-badge)
+![CTF](https://img.shields.io/badge/CTF-Crypto_%7C_Pwn-blueviolet?style=for-the-badge)
 
 </div>
 
 ## About
 
-I work in penetration testing, and I play CTFs on the side (mostly web and crypto).
-Outside of that, I like understanding how systems work under the hood, from the kernel up to the APIs we attack every day.
+Penetration tester at [Company / or "a security consultancy in Japan"].
+I find and validate vulnerabilities in web, API, and mobile applications, and I study native binaries and low-level internals to understand root causes.
 
-> [!NOTE]
-> Still learning, still breaking things (on purpose). Daily driving Arch (btw).
+My interest is in making vulnerability assessment more repeatable: using automation and AI to triage, verify, and report findings faster, with a human in the loop.
 
-## Currently exploring
+## Focus
 
-| Area | What I'm digging into |
-|------|-----------------------|
-| **OS internals** | Kernel internals, memory management |
-| **Toolchains** | How compilers work, from source to binary |
-| **Reverse engineering** | Reading and understanding binaries |
-| **API analysis** | Tracing and testing real-world API behavior |
-| **Automation** | Making security assessments more repeatable and automated |
+| Area | Topics |
+|------|--------|
+| **Assessment** | Web / API / Android / iOS application security testing |
+| **Reverse engineering** | Static and dynamic analysis, root-cause analysis (IDA, Ghidra, Frida) |
+| **Low-level** | Kernel internals, memory, compilers |
+| **Automation** | AI-assisted vulnerability triage and validation workflows |
 
-## Looking for
+## Public work
 
-- Info, tools, and ideas on **automating security assessments**
-- A **CTF team** to play with regularly, so hit me up if you're active
+- [Writeups / blog](URL)
+- [Tool or script you published](URL)
+- [CVE / advisory / disclosed report, if any](URL)
 
-## Elsewhere
+## Principles
 
-- Hack The Box: [profile](https://app.hackthebox.com/profile/2316199)
-- Writeups: on my blog, now and then
+I work only on systems I'm authorized to test and follow coordinated disclosure.
