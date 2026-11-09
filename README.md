@@ -4,7 +4,7 @@
 
 **hitohunt@pentest:~#** Junior Penetration Tester
 
-[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/2316199)
+[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019e6810-8c7a-70c6-8a6c-25666cd4ac02)
 ![Role](https://img.shields.io/badge/Role-Penetration_Tester-red?style=for-the-badge)
 ![CTF](https://img.shields.io/badge/CTF-Crypto_%7C_Pwn-blueviolet?style=for-the-badge)
 
