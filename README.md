@@ -29,7 +29,7 @@ I'm also interested in Active Directory environments, and in making vulnerabilit
 
 ## Public work
 
-- [Writeups / blog](ブログのURL)
+- [writeups / blog]
 
 ## Principles
 
